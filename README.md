@@ -11,7 +11,7 @@ GreatEscapeAnimation is a fun, light-hearted animation project that brings a run
 
 ## 🚀 How to Run
 1. Clone or download this repository.
-2. Open `index.html` in your favorite browser.
+2. Open `anime.html` or `anime2.html` in your favorite browser.
 
 ## 🛠 Customization
 - Replace `bg.jpg` with your own background image in the `/img` folder.
